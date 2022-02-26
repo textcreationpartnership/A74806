@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands remembrancer, or A warning from heaven: setting forth the two iudgements of God now upon the land, viz. sword and plague. VVith an admonition by a well-willer to his countrey, for prevention of the third iudgement threatned, which is famine. Entred according to order.</title>
+            <author>Well-willer to his countrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74806</idno>
+            <idno type="STC">Thomason E50_4</idno>
+            <idno type="STC">ESTC R2086</idno>
+            <idno type="EEBO-CITATION">99867539</idno>
+            <idno type="PROQUEST">99867539</idno>
+            <idno type="VID">155143</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155143)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E50[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands remembrancer, or A warning from heaven: setting forth the two iudgements of God now upon the land, viz. sword and plague. VVith an admonition by a well-willer to his countrey, for prevention of the third iudgement threatned, which is famine. Entred according to order.</title>
+                  <author>Well-willer to his countrey.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Paine, for Francis Eglesfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June the 1st".</note>
+                  <note>Reproduction of the original in the Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155143:1" rendition="simple:additions"/>
+            <p>ENGLANDS REMEMBRANCER, OR A WARNING FROM HEAVEN: Setting forth the two Iudgements of God now upon the Land, <hi>viz. Sword</hi> and <hi>Plague.</hi>
+            </p>
+            <p>VVith an admonition by a well-willer to his Countrey, for prevention of the third Iudgement threatned, which is Famine.</p>
+            <q>
+               <p>Be thou inſtructed, O Jeruſalem, leſt my ſoule depart from thee: leſt I make thee deſolate, a land not inhabited.</p>
+               <bibl>Jer. 6.8.</bibl>
+            </q>
+            <q>
+               <p>He that abideth in the City, ſhall die by the Sword, and by the Famine, and by the Peſtilence, &amp;c. For I have ſet my face againſt this City for evill, and not for good, ſaith the Lord.</p>
+               <bibl>Jer. 21.9, 10.</bibl>
+            </q>
+            <p>Entred according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Paine,</hi> for <hi>Francis Eglesfield,</hi> Anno Dom. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155143:2"/>
+            <pb n="1" facs="tcp:155143:2"/>
+            <head>ENGLANDS REMEMBRANCER.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E in <hi>England, Scotland,</hi> and <hi>Jreland,</hi> have beene like the people of <hi>Laiſh,</hi> Judg. 18. ſecure and careleſſe. Like the old world in the time of <hi>Noah,</hi> and like the men of <hi>Sodom</hi> in the daies of <hi>Lot,</hi> Luke 17.27. Eating and drinking, and ſaying, We ſhall have peace though we walke in the imagi<g ref="char:EOLhyphen"/>nations of our evill hearts, Deut. 29.19. We would not hearken to the voyce of our God, and <hi>Jſrael</hi> would none of him, therefore may hee now juſtly give us up unto our owne hearts luſt: he hath called, but we have refuſed; he hath ſtretched out his hand, but no man regarded; we have ſet at naught all his counſells, and would none of his reproofe; therefore may he now laugh at our calamity, and mock when our feare commeth, when it commeth as deſolation, and de<g ref="char:EOLhyphen"/>ſtruction as a whirlewind, that all men may ſee and ſay, that the turning away of the ſimple hath ſlaine them, and the pro<g ref="char:EOLhyphen"/>ſperity of fooles hath deſtroyed them. God hath given to this Nation of ours many a faire warning, as loath to ſmite till needes hee muſt; hee hath ſent his Miniſters early and late to thunder in our eares, yet except we repent, we ſhall all likewiſe periſh. God hath ſet our Neighbours houſe on fire as a beacon to give us warning; I meane the Judgements that have be<g ref="char:EOLhyphen"/>fallen our brethren beyond the Seas, and hath made the Re<g ref="char:EOLhyphen"/>bells
+<pb n="2" facs="tcp:155143:3"/>in <hi>Jreland</hi> rods to his owne people; we have beene worſe to our God then <hi>Joab</hi> was to <hi>Abſalom,</hi> 2 Sam. 14.29, 30, 31. for <hi>Abſalom</hi> ſent but twice, and <hi>Joab</hi> refuſed him, but God hath ſent many and often to us, and wee would not heare. When <hi>Abſalom</hi> ſet <hi>Joabs</hi> field on fire he came, but God hath ſet our field on fire, and we come not. Our God hath given <hi>Jacob</hi> for a ſpoile, and <hi>Jſrael</hi> to the robbers, becauſe wee have ſinned a<g ref="char:EOLhyphen"/>gainſt him, for we would not walke in his waies, neither were obedient to his law, <hi>Iſa.</hi> 42.24. therefore he powred upon us the fury of his anger, and the ſtrength of battell, he hath ſet us on fire round about, yet wee know it not, &amp; it burneth ſtill, but we lay it not to heart; the ſword of Almighty God devoureth fleſh, and drinkes our blood, yet neither mercies nor judgements move us: Still <hi>Ephraim</hi> eates the arme of <hi>Manaſſeh,</hi> &amp; <hi>Manaſſeh Ephraim.</hi> The Kingdom is like a mad man diſtracted, that ſaves the cruell enemy a labour, and with his owne bloody hands pulls as it were the haire from the head, the skinne from the fleſh, the fleſh from the bones, the bowells from the bellie, the heart from the breſt, and teares &amp; rends all in peeces, yet ſcarce ever ſighes or weeps or groanes for all, but ſwells, &amp; ſweares, and laughes, and rages, and rores to death: God hath formerly ſent many ſmall judgements before as forerunners of this great judgement which now is come as little gunſhots before the great murthering peece. It hath beene told us before, that if we repented not, God would doe ſuch a thing in England, that whoſoever ſhould heare thereof both his eares ſhould tingle; thus the cockes crowed before the ſtorme, after many grievous diſeaſes, and plagues he hath ſent the ſword &amp; he can make our ſtreets ſwim with the blood of us all, and both with and after ſword ſend famine as hee hath threatned, <hi>Levit.</hi> 26. I will yet puniſh them ſeven times more, and if that will not doe it, ſeven times more; The Lord will not ceaſe to ſmite ſo long as we ceaſe not to ſinne. Conſider <hi>Jeruſalem</hi> in the whole book of the <hi>Lamentations,</hi> and conſider <hi>Germany,</hi> they were Gods people as well as wee, yet had they their little ones daſhed a<g ref="char:EOLhyphen"/>gainſt the ſtones, and their women raviſhed, and abominable Idolatrie ſet up, and all turned topſie turvie, upſide downe. We have had the cleare light of the Goſpel many yeares, wee
+<pb n="3" facs="tcp:155143:3"/>have had many deliverances, eſpecially thoſe of the Gunpow<g ref="char:EOLhyphen"/>der Treaſon, and Eighty eight; we have had more peace, plen<g ref="char:EOLhyphen"/>ty, and proſperity then any Nation, yet wee have loved darke<g ref="char:EOLhyphen"/>neſſe rather then light, we have trampled Chriſts blood under foote in the contempt of the Goſpel, and with bloody oathes and prophanation of his Sabbaths, with curſed Idolatry, rio<g ref="char:EOLhyphen"/>tous drunkennes and Atheiſme, Adultery, Bribery, Oppreſſion, Vſury, Simony, Fraud, Hypocriſie, Pride, Idleneſſe, many ſtill have a ſhew of godlyneſſe, but deny the power of it, many lukewarme Chriſtians, ſhall not God viſite for theſe things? <hi>Iſa.</hi> 1.2, 3.</p>
+            <p>I take no delight to upbraid mine own Nation, or to de<g ref="char:EOLhyphen"/>file mine own neſt; I cannot hold my tongue for <hi>Sions</hi> ſake: let me periſh if I ſee my Country periſh, and give them not warning. Wherefore I beſeech yee my deare brethren (all true hearted <hi>Engliſhmen</hi>) in the bowells of Chriſt Jeſus, who died for us, and ſhed his owne heart bloud for us, as you regard your owne ſoules, bodies, and eſtates; as yee wiſh and deſire the peace and proſperity of this our <hi>Sion,</hi> dally with the Lord no longer, God will not be alwayes mocked, turne now at the laſt unto the Lord with al your hearts; <hi>turne yee, oh turne yee, why will yee die? Seeke the Lord whileſt he may be found, call upon him whileſt he is neere; draw neere to God and he will draw neere to you.</hi> Oh that I could even weepe over this Land, as our Saviour did over <hi>Jeruſalem,</hi> and ſay: <hi>O England, England, thou that rejecteſt my Prophets,
+<note place="margin">Luke 13.34.</note> and de<g ref="char:EOLhyphen"/>ſpiſeſt thoſe that are ſent unto thee, how often would I have ga<g ref="char:EOLhyphen"/>thered thee together, as a henne gathereth her chickens under her wings, and yee would not;</hi> wherefore thy houſe ſhall be left un<g ref="char:EOLhyphen"/>to thee deſolate: <hi>oh that thou wert therefore now wiſe yet in this thy day to conſider thoſe things that belong unto thy peace, leſt at length they be hid from thine eyes.</hi> Woe to thee O <hi>England,</hi>
+               <note place="margin">Mat. 11.21.</note> if the great workes which have been done in thee, had beene done in <hi>Tyre</hi> and <hi>Sidon,</hi> in <hi>Sodome</hi> and <hi>Gomorrah,</hi> they had repented in ſackcloth and aſhes long ere this: And thou <hi>Lon<g ref="char:EOLhyphen"/>don, London, which art lifted up to heaven,</hi> for abundance of ſpi<g ref="char:EOLhyphen"/>rituall meanes, <hi>ſhalt be brought as low as hell,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="23"/> except thou re<g ref="char:EOLhyphen"/>pent: wherefore I beſeech yee againe and againe for Chriſt
+<pb n="4" facs="tcp:155143:4"/>his ſake, for the Goſpels ſake, for your Countreys ſake, for your owne ſoules ſake be entreated; Repent, repent; <hi>Search, even ſearch your ſelves O nation not worthy to be beloved,
+<note place="margin">Zeph. 2.1.</note> before the decree come forth, and yee be as chaffe that paſſeth on a day:</hi> looke into your lives, conſider your wayes, goe apart, and ſe<g ref="char:EOLhyphen"/>riouſly aske your ſoules; What have we done? Let your mirth be turned into mourning,
+<note place="margin">Dan. 9.19.</note> your feaſting into faſting, weepe and lament bitterly for your ſins, cry mightily for mercy, e<g ref="char:EOLhyphen"/>ven as for life and death; <hi>ceaſe to doe evill, learne to doe well; waſh you, make you cleane, put away your ſinnes from before God his eyes; rent your hearts and not your garwents, amend and change your wayes, bring forth fruits meete for repentance:</hi> that ſo yee may get the ſword againe into his ſheath, which is al<g ref="char:EOLhyphen"/>readie drawn out, and will give every one of us our deaths wound, except we repent; and may quench that wrath which is already kindled, and will burne hotter and hotter, and never ceaſe untill it have utterly conſumed us, if in time we quench it not by the teares of true repentance: wherefore <hi>now prepare to meet thy God, O England;</hi> It is more then high time to repent, deferre no longer, if the laſt blow be once ſtricken, that is, <hi>cut it downe,</hi> even utter deſolation; there will then bee left no place for repentance. Oh that I could therefore perſwade you; but it is not I, it is the Lord that muſt doe it; now Lord doe thou perſwade <hi>Japheth;</hi> for we cannot: <hi>Turne thou us unto thee O Lord of hoſts, make thy face to ſhine, and we ſhall be ſaved;</hi> convert us unto thee, and we ſhall be converted, renew our dayes as of old; Lord thou longeſt for our converſion; thou ſtandeſt waiting &amp; crying;
+<note place="margin">Jerem. 13.27.</note> Waſh thine heart, <hi>O England,</hi> wilt thou not be made cleane? oh <hi>when will it once be?</hi> Lord cleanſe thou us, and we ſhall be cleanſed; waſh thou us, and we ſhall bee whiter then ſnow; cauſe us to come unto thee, why haſt thou harde<g ref="char:EOLhyphen"/>ned our hearts from thy feare?
+<note place="margin">Iſay. 64.8.</note> O Lord thou art our Father, we are thy clay; thou art the Potter, wee are the worke of thine hands; oh deſtroy not the worke of thine owne hands; frame and faſhion us, and make us ſuch as thou wouldeſt have us to be: ſpare thy people, O God, ſpare thy people, and bee jealous for thine inheritance, <hi>Why ſhall the people ſay, Where is their God? O Lord heare, O Lord conſider, and doe it, deferre not
+<pb n="5" facs="tcp:155143:4"/>for thy names ſake,</hi> for thy Chriſt his ſake, pitie the deſolati<g ref="char:EOLhyphen"/>ons of thy <hi>Sion,</hi> of the Citie where thy name is called upon? Wilt thou O Lord, forſake for ever? <hi>Why is thy wrath thus hot againſt the ſheepe of thy paſture?</hi> Our ſins indeed teſtifie a<g ref="char:EOLhyphen"/>gainſt us, that we are a rebellious and ſtifnecked people, we lye downe in our ſhame; and confuſion covereth us; thou art righteous and <hi>juſt when thou judgeſt,</hi> but we are a perverſe and froward generation; we would not heare when thou calledſt, but ſtopped our eares, like the deafe Adder,
+<note place="margin">Pro. 1.26.27.</note> therefore thou maiſt now juſtly <hi>laugh at our deſtruction, and mocke when our feare commeth:</hi> but there is mercy with thee that thou maiſt be feared, we beſeech thee in wrath remember mercy, have mercy upon us according to the multitude of thy compaſſi<g ref="char:EOLhyphen"/>ons, oh Lord ſave us; or elſe we periſh. <hi>Comfort us according to the dayes that thou haſt afflicted us: Returne O Lord, how long? and be pacified towards thy ſervants.</hi> Continue ſtill to bee our God, and let us be thy people; remove thy judgements which lye heavie upon us, and deſtroy us not uttterly for thy names ſake: Make us al to turne to thee from the higheſt to the low<g ref="char:EOLhyphen"/>eſt by ſpeedie and unfeigned repentance, that ſo thou maiſt not utterly cut us off, <hi>even head and taile, roote and branch, in one day;</hi> but maiſt ſtill delight to doe us good, to multiply thy bleſſings upon us; and make us as worthy to be beloved in and through thy Sonne Chriſt Jeſus, that Sonne of thy love, as we have beene for our long peace and proſperitie of all the Nations of the earth admired: even ſo be it Lord, ſo be it.</p>
+            <p>This is the firſt and generall Remedie which a Nation muſt uſe for the removall and preventing not onely of the Plague, but of any other judgement whatſoever; namely,
+<note place="margin">2 Chron. 7.13.14. Jerem. 18.7.8. Iſa. 1.19.20. Jere. 14.11.12.</note> 
+               <hi>true repentance,</hi> which ſtands in ſorrow for ſin, and reformati<g ref="char:EOLhyphen"/>on of life. <hi>If yee conſent and obey, yee ſhall eate the good fruits of the Land; but if yee refuſe and be rebellious, yee ſhall be devoured with the ſword, for the mouth of the Lord hath ſpoken it.</hi> Now if ſo be I cannot prevaile with the whole Land; then I turne to you that feare the Lord: I hope to have audience in your cares. If yee cannot prevaile for others, yet make ſure of your owne ſoules; learne to hide your ſelves, to build an Arke for the ſafetie of you and yours. But yee will ſay, how may that be done? I anſwer.</p>
+            <p>We muſt ſeparate from the ſinnes of a land, if we would
+<pb n="6" facs="tcp:155143:5"/>not be partakers of their plagues, <hi>Deut.</hi> 4.3.4. <hi>Zeph.</hi> 2.3. The more wicked the times grow, the more holy we ſhould grow, like bright orient ſtars the deeper they goe in the dark night the brighter they ſhine, like the light of <hi>Goſhen</hi> in the darkeneſſe of <hi>Aegypt,</hi> like Upright <hi>Lot</hi> in wicked <hi>Sodome,</hi> like righteous <hi>Noe</hi> in a bad world.</p>
+            <p>We muſt mourne for the ſinnes of the times, <hi>Ezek.</hi> 9.4. and for our owne ſinnes, and we muſt truſt to God for ſafety. <hi>Nahum.</hi> 1.7. <hi>Pſal.</hi> 33.18.19. <hi>Pſal.</hi> 91.1. <hi>Pro.</hi> 18.10.</p>
+            <p>Laſtly, Let us betake our ſelves to prayer: Pray, pray, pray therefore, cry and ſay: <hi>O Lord we know not what to doe, only our eyes are up towards thee: what ſhall we ſay unto thee O thou preſer<g ref="char:EOLhyphen"/>ver of men? we are even aſhamed and confounded to lift up our eyes to heaven;</hi> wee have ſinned exceedingly, wee, our Rulers and Governors. Prince, and people; we have all ſinned; our ſinnes are gone up as an heavy loade, too heavy for us to beare; hea<g ref="char:EOLhyphen"/>ven and earth even groane under the burthen of them, they cry mightily for vengeance, but heare the groanes of thy ſervants, let their cryes be lowder in thine eares; heare the pleadings and interceſſions of thine own Sonne for us; his bloud cryes louder for mercy, then our ſinnes can doe for judgement, had it not been for that, we had all long agoe pe<g ref="char:EOLhyphen"/>riſhed, and been utterly conſumed. <hi>O thou the hope of Iſrael, the Saviour thereof in the time of trouble, why art thou as a ſtranger, in the land,
+<note place="margin">Ier. 14.8, 9.</note> as one that paſſeth by to tarry for a night? Why art thou as a man aſtonied, as a ſtrong man that cannot helpe? Yet thou O Lord art in the middeſt of us, thy name is called upon us; forſake us not. Haſt thou utterly reiected Judah? Hath thy ſoule abhorred Sion? Why haſt thou ſmitten us, that we cannot be healed? We loo<g ref="char:EOLhyphen"/>ked for peace, and behold no good; for health, and behold trouble: we acknowledge O Lord, our wickedneſſe, and the wickedneſſe of our fathers, we have all ſinned: doe not abhorre us for thy names ſake: caſt not downe the throne of thy Glory; remember and breake not thy covenant with us;</hi>
+               <note place="margin">Pſal. 51.18.</note> we have no helpe but of thee, thou art our God, therefore ſave us; <hi>oh be favourable unto thy Sion; build thou the walles of Jeruſalem:
+<note place="margin">Pſal. 53.6.</note> ſo ſhall we praiſe thy name for ever, and teach all ages to keepe praiſes for thee in ſtore. Oh give ſalvation to thy people out of Sion; when thou ſhalt reſtore againe the captivity of thy people, then ſhall Jacob rejoyce and Iſrael ſhall be lagd.</hi>
+            </p>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
